@@ -7,10 +7,16 @@
 
 
 <div align="center">
+
   <a href="https://github.com/luannmoraess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luannmoraess&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannmoraess&layout=compact&langs_count=7&theme=algolia"/>
+     
 </div>
+<div align="center">
+<img align="center" alt="Luan-Js" height="300" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVmb3I1NDRlaGY4bG54dGltZTFzemRncmg4eGo4ajN5NWhvMWx1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
+   
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
